@@ -1,0 +1,64 @@
+.Home{
+    min-height: 100%;
+    width: 500px;
+    margin: auto;
+    background: #fff;
+}
+.Movies-list{
+    display: grid;
+    justify-content: center;
+}
+.Movie-item{
+    margin-bottom: 20px;
+}
+
+.poster{
+    float: left;
+    width: 100px;
+}
+.movie-info{
+    float: left;
+    max-width: 220px;
+    padding-left: 10px;
+}
+.movie-title{
+    margin: 0;
+    font-size: 19px;
+    margin-bottom: 5px;
+}
+.movie-year{
+    color: rgba(0,0,0,0.3);
+}
+.movie-runtime{
+    float: left;
+    margin-top: 2px;
+    color: #333;
+}
+.movie-rating{
+    float: left;
+    width: 60px;
+    color: #333;
+}
+.movie-rating::before {
+    content:"\2605";
+    font-size: 19px;
+    color: #ff8300;
+}
+.movie-genre{
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    color: #333;
+    font-size: 13px;
+}
+.movie-Plot{
+    width: 100%;
+    color: rgba(0,0,0,0.6);
+    float: left;
+    display: -webkit-box;
+   -webkit-line-clamp: 3;
+   -webkit-box-orient: vertical;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   padding-top: 10px;
+}

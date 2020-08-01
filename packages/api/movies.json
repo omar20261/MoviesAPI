@@ -1,0 +1,95 @@
+
+[
+    [
+        {
+          "Title": "Memento",
+          "Year": "2000",
+          "Runtime": "113 min",
+          "Genre": [
+            "Thriller",
+            "Mystery"
+          ],
+          "Poster": "https://www.gstatic.com/tv/thumb/v22vodart/28578/p28578_v_v8_ab.jpg",
+          "imdbRating": "8.4",
+          "Plot": "A man with short-term memory loss attempts to track down his wife's murderer."
+        },
+        {
+          "Title": "Inception",
+          "Year": "2010",
+          "Runtime": "148 min",
+          "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "Poster": "https://www.gstatic.com/tv/thumb/v22vodart/7825626/p7825626_v_v8_ad.jpg",
+          "imdbRating": "8.8",
+          "Plot": " A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+        },
+        {
+          "Title": "The Departed",
+          "Year": "2006",
+          "Runtime": "151 min",
+          "Genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+          ],
+          "Poster": "https://images-na.ssl-images-amazon.com/images/I/81ZOilPKzYL._SL1500_.jpg",
+          "imdbRating": "8.5",
+          "Plot": " A transient young man breaks into empty homes to partake of the vacationing residents' lives for a few days."
+        },
+        {
+          "Title": "The Dark Knight",
+          "Year": "2008",
+          "Runtime": "152 min",
+          "Genre": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "Poster": "https://www.gstatic.com/tv/thumb/v22vodart/173378/p173378_v_v8_at.jpg",
+          "imdbRating": "9",
+          "Plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+        },
+        {
+          "Title": " Eternal Sunshine of the Spotless Mind",
+          "Year": "2004",
+          "Runtime": "108 min",
+          "Genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "Poster": "https://www.gstatic.com/tv/thumb/v22vodart/33409/p33409_v_v8_af.jpg",
+          "imdbRating": "8.3",
+          "Plot": " When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories."
+        },
+        {
+          "Title": "No Country for Old Men",
+          "Year": "2007",
+          "Runtime": "122 min",
+          "Genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+          ],
+          "Poster": "https://www.gstatic.com/tv/thumb/v22vodart/170313/p170313_v_v8_aa.jpg",
+          "imdbRating": "8.1",
+          "Plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+        },
+        {
+          "Title": "The Incredibles",
+          "Year": "2004",
+          "Runtime": "115 min",
+          "Genre": [
+            " Animation",
+            "Action",
+            "Adventure"
+          ],
+          "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+          "imdbRating": "8",
+          "Plot": " A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world."
+        }
+      ]
+]
